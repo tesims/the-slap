@@ -11,4 +11,4 @@ The slap is an innovative solution designed to help reduce consumer food waste b
 - Battery-Powered: The light strip is powered by a small, replaceable battery, ensuring long-lasting performance without the need for constant recharging.
 
 ## Prototype
-The current prototype has been developed to demonstrate the core functionality and design of the product. It features a compact, adhesive light strip with 7 individual LED lights, each representing a day of the week. The prototype is powered by a small, replaceable coin cell battery and includes a simple microcontroller to manage the light sequence and expiration alert.
+The current prototype has been developed to demonstrate the core functionality and design of the product. It features a compact, adhesive light strip with 7 individual LED lights, each representing a day of the week. The prototype is powered by a small, rechargable lipo battery and includes a simple microcontroller to manage the light sequence and expiration alert.
